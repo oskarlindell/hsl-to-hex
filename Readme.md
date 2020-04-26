@@ -11,7 +11,7 @@ npm install --save @oskarlindell/hsl-to-hex
 ## API
 ```
 require('hsl-to-hex') => Function
-hsl(hue, saturation, luminosity)` => String
+hsl(hue, saturation, luminosity) => String
 ```
 
 ## Example
